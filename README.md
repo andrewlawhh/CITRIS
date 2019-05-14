@@ -1,8 +1,8 @@
 # Innovation Resources Database API and website
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/9fbc73aa3f01f70834b6/maintainability)](https://codeclimate.com/github/andrewlawhh/lime/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/bdc57ac98ea9b4052813/maintainability)](https://codeclimate.com/github/andrewlawhh/CITRIS/maintainability)
 
-[![Test Coverage](https://api.codeclimate.com/v1/badges/9fbc73aa3f01f70834b6/test_coverage)](https://codeclimate.com/github/andrewlawhh/lime/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/bdc57ac98ea9b4052813/test_coverage)](https://codeclimate.com/github/andrewlawhh/CITRIS/test_coverage)
 
 ## Table of contents
 

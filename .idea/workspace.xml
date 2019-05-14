@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74b560e1-4fbe-4707-934f-593c30e7f975" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.bundle/config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CITRIS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Js/jSbcXgVANbMA9lbQlH1z0CaQ1ksisul_1EtwQyRCWzw.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/Qf/QfsKllySWziuo_9JhAWzcWTV76p5oqQZFs6HsMXZlc0.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/al/aLAxkVV1GZC90IAbFjdxAiGGnCulpVDadyXdbkPMtmI.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/assets/sprockets/v3.0/iX/iX6EzN0XcaN9mRMkniYpw8CcCwmz70YAVOconyx1_os.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/01/672eeb2b61b57a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/01/c3b824f60c3a98" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/08/bedcd1c99189ce" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/0d/0a8a6e1f17936a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/0d/669327a5ee3ff5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/19/418f4e61042cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/1f/0c45f7d7482222" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/2a/d8fc212a788be8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/2c/70bc8367d934c8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/35/a8e326e5add76c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/41/3af9dff028bf57" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/43/23bfb7548b9e4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/4c/fece7f76338b6f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/4d/e25ffcd55f3eb0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/51/6ad5c596ddb31a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/55/6a8a6c4d0ea005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/5a/72259f7f628111" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/5e/19085d478ceb5b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/65/100afa01b77234" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/66/0114f04f1c72fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/69/1695e126d0d6bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/6a/cf3313f1f81c87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/6f/2b8c4ec3d9750a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/6f/51da1d6d1e684a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/6f/a874b7684e6e5c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/71/cb65166d3d67e2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/74/95afc7e0184a70" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/76/7b7da43a90a48f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/79/fdfdada17ad301" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/7d/50372291dc5511" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/83/b1b3dbecc009ea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/85/72ca05b5ff0e57" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/93/cb3279ce1d6870" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/99/165df56d8aaba7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/9a/2a0befa6185dd0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/9a/9567a84744ee87" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/a1/cc91dd0f1fbce8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/a5/c675a44bd42039" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/b1/b8525d6d2aa46c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/b5/baf529cfb9b43b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/c5/94e71e68f899f3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/cc/53f7fb3083d0c1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/cf/e353269f2dbce6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/db/c76ccb0c66c869" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/e5/7d81fe734e7d76" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/e7/114d1c1ca57bc1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f6/45c13a0202621d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-compile-cache/f8/3f37ecc0a7a251" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/.last_run.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/.last_run.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/.resultset.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/.resultset.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/development.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db/development.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/test.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db/test.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/development.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/development.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/test.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/test.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/bootsnap-load-path-cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/pids/server.pid" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.bundle/" />
+    <ignored path="$PROJECT_DIR$/components/" />
+    <ignored path="$PROJECT_DIR$/log/" />
+    <ignored path="$PROJECT_DIR$/public/system/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$PROJECT_DIR$/vendor/bundle/" />
+    <ignored path="$PROJECT_DIR$/vendor/cache/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="456">
+                <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="RailsProjectView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CITRIS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CITRIS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Rails.Development: CITRIS">
+    <configuration name="Development: CITRIS" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="CITRIS" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Production: CITRIS" type="RailsRunConfigurationType" factoryName="Rails">
+      <module name="CITRIS" />
+      <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SCRIPT_ARGS" VALUE="" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="0.0.0.0" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="production" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spec: CITRIS" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="CITRIS" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="spec" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":rspec " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test: CITRIS" type="RakeRunConfigurationType" factoryName="Rake">
+      <module name="CITRIS" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="test" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE=":test_unit " />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74b560e1-4fbe-4707-934f-593c30e7f975" name="Default Changelist" comment="" />
+      <created>1557805535595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557805535595</updated>
+      <workItem from="1557805536991" duration="1252000" />
+      <workItem from="1557807015171" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1305000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3297062" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3297062" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="456">
+            <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

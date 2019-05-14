@@ -1,0 +1,30 @@
+
+language: ruby
+rvm:
+    - 2.6.0
+env:
+  global:
+    - CC_TEST_REPORTER_ID=2aea51dc611a885abfac74f5dee03cc8fe2f5b149127dd3a83ee474a96337e89
+
+bundler_args:
+    --without production
+
+before_install:
+  - gem install bundler -v 1.17.2
+  - bundle update rails
+
+before_script:
+  - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
+  - chmod +x ./cc-test-reporter
+  - ./cc-test-reporter before-build
+  - bundle exec rake db:reset
+
+scripts:
+  - bundle exec rspec
+  - ./cc-test-reporter format-coverage -t simplecov --output coverage/codeclimate.$SUITE.json
+
+after_script:
+  - ./cc-test-reporter sum-coverage -i coverage/codeclimate.*.json | ./cc-test-reporter upload-coverage
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT -r $CC_TEST_REPORTER_ID
+notifications:
+    - false
