@@ -1,0 +1,73 @@
+// Place all the styles related to the FAQ controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.section-title{
+  text-align: center;
+  padding-top: .8em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: .8em;
+  margin-bottom: 1em;
+}
+
+.accordion {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+}
+
+.accordion input[type="radio"] {
+  display: none;
+}
+.accordion input[type="radio"] ~ .accordionContent {display: none;}
+.accordion input[type="radio"]:checked ~ .accordionContent {display: block;}
+
+.accordion .accordionBlock {
+  margin-bottom: 5px;
+  display: block;
+  width: 100%;
+  float: left;
+}
+
+.accordion .accordionBlock .accordionContent {
+  border:1px solid #eee;
+  border-top: 0 none;
+  width: 100%;
+  float: left;
+  padding: 10px;
+  font-weight: 400;
+}
+
+.accordion .accordionBlock label {
+  background: #f5f5f5;
+  width: 100%;
+  border:1px solid #eee;
+  padding: 10px;
+  margin-bottom: 0;
+  float: left;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  cursor:pointer;}
+.accordion input[type="radio"]:checked ~ label {
+  border-bottom: 0 none;
+  background: #ccc;
+}
+
+.accordion .accordionBlock .accordionContent {
+  animation: 1s fadeInAccordion;
+  animation-fill-mode: forwards;
+  visibility: hidden;
+  font-size:13px;
+  line-height:18px}
+
+
+@keyframes fadeInAccordion {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    visibility: visible;
+    opacity: 1;
+  }
+}
